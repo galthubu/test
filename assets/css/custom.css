@@ -13,3 +13,9 @@
 #lol2 {
     color: #FFC947;
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

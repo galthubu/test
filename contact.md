@@ -1,9 +1,8 @@
 ---
-title: Contact
+title: "Contact"
 order: 1
+in_menu: true
 ---
+Blablablablablablablabla.
 
-L'Échappée Belle est actuellement composée de 6 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Blabla blablabla : [coucou@lechappeebelle.team](mailto:_mail_@_fournisseurDeMail.youhou_) 

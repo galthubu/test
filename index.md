@@ -11,7 +11,7 @@ Consectetur adipiscing elit. **Aliquam efficitur libero** sed augue pharetra pos
 
 ## Lorem ipsum dolor sit amet 2
 
-![chat roux faisant sa toilette]{.photo}({% link images/cat-323262_1920.jpg %})
+![chat roux faisant sa toilette]({% link images/cat-323262_1920.jpg %.photo})
 
 ### Praesent at risus sed lacus scelerisque tempus. 
 

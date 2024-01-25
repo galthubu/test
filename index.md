@@ -1,8 +1,18 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
+# Lorem Ipsum
 
-# L'Échappée Belle
+## Lorem ipsum dolor sit amet
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Consectetur adipiscing elit. **Aliquam efficitur libero** sed augue pharetra posuere nec nec est. Curabitur sagittis facilisis elit et vehicula. Duis facilisis enim ac nisi egestas dignissim. Sed porttitor erat non pharetra efficitur. Cras feugiat mattis leo eu luctus. Nunc vitae sem suscipit ligula porta consectetur eget non nunc. **_Cras et sagittis sem._** Aenean pretium fermentum nisl eget suscipit. Aliquam fermentum porttitor elit, nec malesuada enim maximus in. **Cras sed mattis ipsum, vel ullamcorper lectus.** Mauris id lacinia turpis. In a interdum augue, in dapibus diam. Cras quis euismod lorem, non congue arcu. 
+
+## Lorem ipsum dolor sit amet 2
+
+![chat roux faisant sa toilette]({% link images/cat-323262_1920.jpg %})
+
+### Praesent at risus sed lacus scelerisque tempus. 
+
+Sed vitae dui quis orci consectetur maximus et sed libero. Curabitur mollis lacus non suscipit malesuada. Vestibulum sagittis efficitur convallis. Mauris in augue luctus, consequat metus sed, facilisis risus. Praesent bibendum varius est, ac maximus magna fermentum at. Etiam vitae consequat erat. Proin a lorem eget elit suscipit auctor id sit amet eros. Pellentesque pulvinar et neque sed pulvinar. Fusce egestas pulvinar elit, non eleifend ante tristique et. 

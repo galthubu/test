@@ -9,7 +9,7 @@ in_menu: true
 
 Consectetur adipiscing elit. **Aliquam efficitur libero** sed augue pharetra posuere nec nec est. Curabitur sagittis facilisis elit et vehicula. Duis facilisis enim ac nisi egestas dignissim. Sed porttitor erat non pharetra efficitur. Cras feugiat mattis leo eu luctus. Nunc vitae sem suscipit ligula porta consectetur eget non nunc. **_Cras et sagittis sem._** Aenean pretium fermentum nisl eget suscipit. Aliquam fermentum porttitor elit, nec malesuada enim maximus in. **Cras sed mattis ipsum, vel ullamcorper lectus.** Mauris id lacinia turpis. In a interdum augue, in dapibus diam. Cras quis euismod lorem, non congue arcu. 
 
-## Lorem ipsum dolor sit amet 2
+## Lorem ipsum dolor sit amet 2 {.lol2}
 
 ![chat roux faisant sa toilette]({% link images/cat-323262_1920.jpg %})
 Test de maj n°3644

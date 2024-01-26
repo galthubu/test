@@ -35,6 +35,9 @@ img {
 table {
     width: 100%;
     font-size: 70%;
-    color: green;
-    text-align: left;
+    color: blue;
+}
+
+td {
+  text-align: left;
 }

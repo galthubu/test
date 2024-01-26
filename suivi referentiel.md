@@ -18,11 +18,11 @@ in_menu: true
 | | Appliquer les techniques d’écoute active. |
 | | Maîtriser sa communication en situation de crise. |
 | | Commenter l’intervention pour l’utilisateur lors d’une prise de contrôle sur son poste. | ok-ish |
-| | Répondre aux questions de l’utilisateur dans un langage adapté. |
-| | Ecouter l’utilisateur et reformuler sa demande dans un langage adapté. |
-| | Prendre en compte d’éventuelles situations de handicap chez l’utilisateur et adapter la communication à ses besoins.  |
-| | Connaissance de l’organisation d’un centre de services. |
-| | Connaissance de la démarche ITIL et des bonnes pratiques d'un centre de services. |
+| | Répondre aux questions de l’utilisateur dans un langage adapté. | ok-ish |
+| | Ecouter l’utilisateur et reformuler sa demande dans un langage adapté. | ok-ish |
+| | Prendre en compte d’éventuelles situations de handicap chez l’utilisateur et adapter la communication à ses besoins.  | ok-ish |
+| | Connaissance de l’organisation d’un centre de services. | ok |
+| | Connaissance de la démarche ITIL et des bonnes pratiques d'un centre de services. | ok |
 | Assister à l’utilisation des ressources collaboratives et bureautiques | Expliquer l’utilisation d’un poste de travail, ou d’un téléphone ou logiciel. |
 | | Expliquer l’utilisation d’un navigateur Web, et des éléments de sécurité associés. |
 | | Expliquer les fonctionnalités des outils bureautiques. |
@@ -34,65 +34,66 @@ in_menu: true
 | | Exploiter la solution de bureautique distribuée en Cloud. |
 | | Respecter les phases d’une intervention d’assistance. |
 | | Appliquer les techniques d’écoute active. |
-| | Rédiger et transmettre des notes, des consignes et des procédures en tenant compte des besoins du destinataire.  |
+| | Rédiger et transmettre des notes, des consignes et des procédures en tenant compte des besoins du destinataire.  | ok |
 | | Respecter et faire respecter les recommandations de sécurité concernant les équipements numériques. |
 | | Ecouter l’utilisateur et reformuler sa demande dans un langage adapté. |
 | | Prendre en compte d’éventuelles situations de handicap chez l’utilisateur et adapter la communication à ses besoins.  |
 | | Maîtriser sa communication en situation de crise. | 
-| | Connaissance de base et avancée des suites bureautiques. | 
+| | Connaissance de base et avancée des suites bureautiques. | ok |
 | | Connaissance des fonctionnalités d’un téléphone IP. | 
-| | Connaissance de la configuration et de l’utilisation d’une tablette et d’un smartphone. | 
-| | Connaissance des plateformes de travail collaboratif. | 
+| | Connaissance de la configuration et de l’utilisation d’une tablette et d’un smartphone. | ok-ish |
+| | Connaissance des plateformes de travail collaboratif. | ok |
 | | Connaissance des règles de sécurité et de protection des données. | 
 | | Connaissance de l’usage des outils de communication en entreprise (réseaux sociaux, sites web, …). | 
-| | Connaissance des offres des principaux opérateurs de Cloud. | 
-| Diagnostiquer et résoudre un dysfonctionnement numérique | Utiliser les outils professionnels de tests et de diagnostics appropriés. | 
-| | Appliquer une démarche méthodique de résolution de problème. | 
-| | Connaissance de l’ensemble des couches d’un système : Matériel, BIOS, Système, réseau, et applicatifs. | 
-| | Connaissance de l’ensemble des outils bureautique. | 
+| | Connaissance des offres des principaux opérateurs de Cloud. | ok |
+| Diagnostiquer et résoudre un dysfonctionnement numérique | Utiliser les outils professionnels de tests et de diagnostics appropriés. | ok |
+| | Appliquer une démarche méthodique de résolution de problème. | ok |
+| | Connaissance de l’ensemble des couches d’un système : Matériel, BIOS, Système, réseau, et applicatifs. | ok |
+| | Connaissance de l’ensemble des outils bureautique. | ok |
 | | Connaissance de l’ensemble des bases de la sécurité informatique (confidentialité des données, vulnérabilités des logiciels, menaces, risques, chiffrement, sécurité TCP/IP, pare-feu…).  | 
 | | Connaissance du modèle OSI-TCP/IP. | 
 
 ### CCP2 - Mettre en service des équipements numériques
 
-| Module | Compétences |
-|:-------------|:------------|
+| Module | Compétences | |
+|:-------------|:------------|:---:|
 | Installer, déployer et personnaliser un poste utilisateur | Utiliser les outils d’accessibilité du système d’exploitation pour adapter l’interface aux situations de handicap.  | 
-| | Installer le système d'exploitation, les pilotes et les logiciels. | 
+| | Installer le système d'exploitation, les pilotes et les logiciels. | ok |
 | | Déployer une matrice de poste utilisateur. | 
-| | Partitionner un disque. | 
-| | Configurer l’environnement du poste utilisateur. | 
-| | Raccorder le poste utilisateur à un réseau filaire ou sans fil. | 
-| | Paramétrer et personnaliser le profil utilisateur. | 
+| | Partitionner un disque. | ok |
+| | Configurer l’environnement du poste utilisateur. | ok |
+| | Raccorder le poste utilisateur à un réseau filaire ou sans fil. | ok |
+| | Paramétrer et personnaliser le profil utilisateur. | ok |
 | | Mettre à jour les logiciels et effectuer un retour à l’état d’origine après une installation ou une mise à jour. | 
-| | Créer, configurer et manipuler des machines virtuelles. | 
-| | Assurer une veille technologique sur les systèmes d’exploitation Windows. | 
-| | Utiliser des documents techniques rédigé en anglais. | 
-| | Rechercher des informations techniques sur des sites francophones et anglophones. | 
+| | Créer, configurer et manipuler des machines virtuelles. | ok |
+| | Assurer une veille technologique sur les systèmes d’exploitation Windows. | ok |
+| | Utiliser des documents techniques rédigé en anglais. | ok |
+| | Rechercher des informations techniques sur des sites francophones et anglophones. | ok |
 | | Effectuer la recette des postes clients. | 
-| | Respecter une procédure. | 
-| | Compléter une fiche d'intervention ou un compte rendu. | 
-| | Connaissance des différents systèmes d'exploitation. | 
-| | Connaissance des principes de base des machines virtuelles et des logiciels de virtualisation. | 
+| | Respecter une procédure. | ok |
+| | Compléter une fiche d'intervention ou un compte rendu. | ok |
+| | Connaissance des différents systèmes d'exploitation. | ok |
+| | Connaissance des principes de base des machines virtuelles et des logiciels de virtualisation. | ok |
 | | Notion de la gestion des licences. | 
 | | Connaissance d’un outil centralisé de gestion des équipements mobiles (MDM). | 
-|  Intervenir sur les composants matériels d’un ordinateur fixe ou mobile | Identifier, installer, configurer et tester les différents composants et leurs pilotes. | 
-| | Interpréter les erreurs de démarrage d'un ordinateur fixe ou mobile. | 
-| | Ajouter, enlever ou remplacer les composants d’un ordinateur fixe ou mobile et en adapter la configuration. | 
-| | Compléter une fiche d'intervention ou un compte rendu. | 
+|  Intervenir sur les composants matériels d’un ordinateur fixe ou mobile | Identifier, installer, configurer et tester les différents composants et leurs pilotes. | ok |
+| | Interpréter les erreurs de démarrage d'un ordinateur fixe ou mobile. | ok |
+| | Ajouter, enlever ou remplacer les composants d’un ordinateur fixe ou mobile et en adapter la configuration. | ok |
+| | Compléter une fiche d'intervention ou un compte rendu. | ok |
 | | Assurer une veille technologique sur les composants matériels numériques (évolutions techniques et logicielles).  | 
-| | Utiliser une notice technique rédigée en anglais. | 
-| | Appliquer les règles relatives aux risques électriques (habilitation BS) et électrostatiques. | 
-| | Connaissance de l'architecture physique du micro-ordinateur : alimentation, carte mère, processeur, mémoires, protections, SETUP, cartes d'extension.  | 
-| | Connaissance des différents types de connexion (Bluetooth, Ethernet, Wifi...). | 
-| | Connaissance de base des directives européennes relatives à la gestion des déchets électriques et électroniques. (DEEE).  | 
-|  Contribuer à la sécurité d'un équipement numérique et de ses données | Sécuriser physiquement les équipements informatiques. | 
-| | Protéger les postes de travail des risques informatiques. | 
+| | Utiliser une notice technique rédigée en anglais. | ok |
+| | Appliquer les règles relatives aux risques électriques (habilitation BS) et électrostatiques. | ok |
+| | Connaissance de l'architecture physique du micro-ordinateur : alimentation, carte mère, processeur, mémoires, protections, SETUP, cartes d'extension.  | ok |
+| | Connaissance des différents types de connexion (Bluetooth, Ethernet, Wifi...). | ok |
+| | Connaissance de base des directives européennes relatives à la gestion des déchets électriques et électroniques. (DEEE).  | ok |
+| | Contribuer à la sécurité d'un équipement numérique et de ses données | ok |
+| | Sécuriser physiquement les équipements informatiques. | ok |
+| | Protéger les postes de travail des risques informatiques. | ok |
 | | Mettre en œuvre la sauvegarde des données, des systèmes et leurs restaurations. | 
 | | Assurer une veille technologique sur les différentes solutions de sauvegardes (logiciels, matériel, cloud..). | 
 | | Sensibiliser les utilisateurs aux règles d’hygiène informatique recommandée par l’ANSSI. | 
-| | Sensibiliser le cas échéant l’utilisateur au respect de la confidentialité des données personnelles. | 
-| | Connaissance des différents types de virus informatiques et d’intrusions. | 
+| | Sensibiliser le cas échéant l’utilisateur au respect de la confidentialité des données personnelles. | ok |
+| | Connaissance des différents types de virus informatiques et d’intrusions. | ok | 
 | | Connaissance des règles d’hygiène informatique recommandées par l’ANSSI. | 
 | | Connaissance des notions de redondance et de sauvegarde des données. | 
 

@@ -47,22 +47,27 @@ in_menu: true
 | | Connaissance de l’usage des outils de communication en entreprise (réseaux sociaux, sites web, …). | 
 | | Connaissance des offres des principaux opérateurs de Cloud. | 
 | Diagnostiquer et résoudre un dysfonctionnement numérique | Utiliser les outils professionnels de tests et de diagnostics appropriés. | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
+| | Appliquer une démarche méthodique de résolution de problème. | 
+| | Connaissance de l’ensemble des couches d’un système : Matériel, BIOS, Système, réseau, et applicatifs. | 
+| | Connaissance de l’ensemble des outils bureautique. | 
+| | Connaissance de l’ensemble des bases de la sécurité informatique (confidentialité des données, vulnérabilités des logiciels, menaces, risques, chiffrement, sécurité TCP/IP, pare-feu…).  | 
+| | Connaissance du modèle OSI-TCP/IP. | 
+
+### CCP2 - Mettre en service des équipements numériques
+
+| Sous-module | Compétences |
+|:-------------:|:------------:|
+| Installer, déployer et personnaliser un poste utilisateur | Utiliser les outils d’accessibilité du système d’exploitation pour adapter l’interface aux situations de handicap.  | 
+| | Installer le système d'exploitation, les pilotes et les logiciels. | 
+| | Déployer une matrice de poste utilisateur. | 
+| | Partitionner un disque. | 
+| | Configurer l’environnement du poste utilisateur. | 
+| | Raccorder le poste utilisateur à un réseau filaire ou sans fil. | 
+| | Paramétrer et personnaliser le profil utilisateur. | 
+| | Mettre à jour les logiciels et effectuer un retour à l’état d’origine après une installation ou une mise à jour. | 
+| | Créer, configurer et manipuler des machines virtuelles. | 
+| | Assurer une veille technologique sur les systèmes d’exploitation Windows. | 
+| | Utiliser des documents techniques rédigé en anglais. | 
 | |  | 
 | |  | 
 | |  | 

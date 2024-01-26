@@ -41,14 +41,6 @@ th {
     text-align: center;
 }
 
-#fait {
-    color : green;
-}
-
-.fait {
-    color: green;
-}
-
 tr,td {
-  border: solid;
+  border: 1px solid red;
 }

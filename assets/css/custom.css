@@ -48,3 +48,7 @@ th {
 .fait {
     color: green;
 }
+
+tr,td {
+  border: solid;
+}

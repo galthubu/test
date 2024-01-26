@@ -8,7 +8,7 @@ in_menu: true
 | Module | Compétences | |
 |:-------------|:------------|:---------:|
 | Traiter un incident dans un centre de services et assurer le suivi du parc | Traiter un ticket d'incident à l’aide d’un outil de gestion (saisir le ticket, qualifier l'incident, décider de la suite à donner et clôturer le ticket). | ok |
-| | Utiliser un script de questionnement ou une méthode d’analyse en résolution d’incident. | 
+| | Utiliser un script de questionnement ou une méthode d’analyse en résolution d’incident. |
 | | Utiliser une base de connaissance. | ok |
 | | Utiliser un logiciel de gestion de parc et de gestion d’incidents. | ok |
 | | Prendre la main à distance sur un poste utilisateur. | ok |
@@ -38,75 +38,75 @@ in_menu: true
 | | Respecter et faire respecter les recommandations de sécurité concernant les équipements numériques. |
 | | Ecouter l’utilisateur et reformuler sa demande dans un langage adapté. |
 | | Prendre en compte d’éventuelles situations de handicap chez l’utilisateur et adapter la communication à ses besoins.  |
-| | Maîtriser sa communication en situation de crise. | 
+| | Maîtriser sa communication en situation de crise. |
 | | Connaissance de base et avancée des suites bureautiques. | ok |
-| | Connaissance des fonctionnalités d’un téléphone IP. | 
+| | Connaissance des fonctionnalités d’un téléphone IP. |
 | | Connaissance de la configuration et de l’utilisation d’une tablette et d’un smartphone. | ok-ish |
 | | Connaissance des plateformes de travail collaboratif. | ok |
-| | Connaissance des règles de sécurité et de protection des données. | 
-| | Connaissance de l’usage des outils de communication en entreprise (réseaux sociaux, sites web, …). | 
+| | Connaissance des règles de sécurité et de protection des données. |
+| | Connaissance de l’usage des outils de communication en entreprise (réseaux sociaux, sites web, …). |
 | | Connaissance des offres des principaux opérateurs de Cloud. | ok |
 | Diagnostiquer et résoudre un dysfonctionnement numérique | Utiliser les outils professionnels de tests et de diagnostics appropriés. | ok |
 | | Appliquer une démarche méthodique de résolution de problème. | ok |
 | | Connaissance de l’ensemble des couches d’un système : Matériel, BIOS, Système, réseau, et applicatifs. | ok |
 | | Connaissance de l’ensemble des outils bureautique. | ok |
-| | Connaissance de l’ensemble des bases de la sécurité informatique (confidentialité des données, vulnérabilités des logiciels, menaces, risques, chiffrement, sécurité TCP/IP, pare-feu…).  | 
+| | Connaissance de l’ensemble des bases de la sécurité informatique (confidentialité des données, vulnérabilités des logiciels, menaces, risques, chiffrement, sécurité TCP/IP, pare-feu…).  |
 | | Connaissance du modèle OSI-TCP/IP. | 
 
 ### CCP2 - Mettre en service des équipements numériques
 
 | Module | Compétences | |
 |:-------------|:------------|:---------:|
-| Installer, déployer et personnaliser un poste utilisateur | Utiliser les outils d’accessibilité du système d’exploitation pour adapter l’interface aux situations de handicap.  | 
+| Installer, déployer et personnaliser un poste utilisateur | Utiliser les outils d’accessibilité du système d’exploitation pour adapter l’interface aux situations de handicap. |
 | | Installer le système d'exploitation, les pilotes et les logiciels. | ok |
-| | Déployer une matrice de poste utilisateur. | 
+| | Déployer une matrice de poste utilisateur. |
 | | Partitionner un disque. | ok |
 | | Configurer l’environnement du poste utilisateur. | ok |
 | | Raccorder le poste utilisateur à un réseau filaire ou sans fil. | ok |
 | | Paramétrer et personnaliser le profil utilisateur. | ok |
-| | Mettre à jour les logiciels et effectuer un retour à l’état d’origine après une installation ou une mise à jour. | 
+| | Mettre à jour les logiciels et effectuer un retour à l’état d’origine après une installation ou une mise à jour. |
 | | Créer, configurer et manipuler des machines virtuelles. | ok |
 | | Assurer une veille technologique sur les systèmes d’exploitation Windows. | ok |
 | | Utiliser des documents techniques rédigé en anglais. | ok |
 | | Rechercher des informations techniques sur des sites francophones et anglophones. | ok |
-| | Effectuer la recette des postes clients. | 
+| | Effectuer la recette des postes clients. |
 | | Respecter une procédure. | ok |
 | | Compléter une fiche d'intervention ou un compte rendu. | ok |
 | | Connaissance des différents systèmes d'exploitation. | ok |
 | | Connaissance des principes de base des machines virtuelles et des logiciels de virtualisation. | ok |
-| | Notion de la gestion des licences. | 
-| | Connaissance d’un outil centralisé de gestion des équipements mobiles (MDM). | 
+| | Notion de la gestion des licences. |
+| | Connaissance d’un outil centralisé de gestion des équipements mobiles (MDM). |
 | Intervenir sur les composants matériels d’un ordinateur fixe ou mobile | Identifier, installer, configurer et tester les différents composants et leurs pilotes. | ok |
 | | Interpréter les erreurs de démarrage d'un ordinateur fixe ou mobile. | ok |
 | | Ajouter, enlever ou remplacer les composants d’un ordinateur fixe ou mobile et en adapter la configuration. | ok |
 | | Compléter une fiche d'intervention ou un compte rendu. | ok |
-| | Assurer une veille technologique sur les composants matériels numériques (évolutions techniques et logicielles).  | 
+| | Assurer une veille technologique sur les composants matériels numériques (évolutions techniques et logicielles).  |
 | | Utiliser une notice technique rédigée en anglais. | ok |
 | | Appliquer les règles relatives aux risques électriques (habilitation BS) et électrostatiques. | ok |
-| | Connaissance de l'architecture physique du micro-ordinateur : alimentation, carte mère, processeur, mémoires, protections, SETUP, cartes d'extension.  | ok |
+| | Connaissance de l'architecture physique du micro-ordinateur : alimentation, carte mère, processeur, mémoires, protections, SETUP, cartes d'extension. | ok |
 | | Connaissance des différents types de connexion (Bluetooth, Ethernet, Wifi...). | ok |
-| | Connaissance de base des directives européennes relatives à la gestion des déchets électriques et électroniques. (DEEE).  | ok |
+| | Connaissance de base des directives européennes relatives à la gestion des déchets électriques et électroniques. (DEEE). | ok |
 | | Contribuer à la sécurité d'un équipement numérique et de ses données | ok |
 | | Sécuriser physiquement les équipements informatiques. | ok |
 | | Protéger les postes de travail des risques informatiques. | ok |
-| | Mettre en œuvre la sauvegarde des données, des systèmes et leurs restaurations. | 
-| | Assurer une veille technologique sur les différentes solutions de sauvegardes (logiciels, matériel, cloud..). | 
-| | Sensibiliser les utilisateurs aux règles d’hygiène informatique recommandée par l’ANSSI. | 
+| | Mettre en œuvre la sauvegarde des données, des systèmes et leurs restaurations. |
+| | Assurer une veille technologique sur les différentes solutions de sauvegardes (logiciels, matériel, cloud..). |
+| | Sensibiliser les utilisateurs aux règles d’hygiène informatique recommandée par l’ANSSI. |
 | | Sensibiliser le cas échéant l’utilisateur au respect de la confidentialité des données personnelles. | ok |
-| | Connaissance des différents types de virus informatiques et d’intrusions. | ok | 
-| | Connaissance des règles d’hygiène informatique recommandées par l’ANSSI. | 
-| | Connaissance des notions de redondance et de sauvegarde des données. | 
+| | Connaissance des différents types de virus informatiques et d’intrusions. | ok |
+| | Connaissance des règles d’hygiène informatique recommandées par l’ANSSI. |
+| | Connaissance des notions de redondance et de sauvegarde des données. |
 
 ### CCP3 – Intervenir sur les éléments de l'infrastructure
 
 | Module | Compétences | |
 |:-------------|:------------|:-----:|
-|  Installer et configurer les équipements et services réseaux | Installer, câbler un routeur, un commutateur et un point d’accès sans fil. | 
-| | Mettre à jour sa configuration à partir de consignes de l’administrateur réseau. | 
+|  Installer et configurer les équipements et services réseaux | Installer, câbler un routeur, un commutateur et un point d’accès sans fil. |
+| | Mettre à jour sa configuration à partir de consignes de l’administrateur réseau. |
 | | Configurer le service DHCP. | ok |
 | | Partager des fichiers sur un serveur de fichier d’un réseau local. | ok |
 | | Configurer une imprimante réseau. | 
-| | Assurer une veille technologique sur les réseaux (évolutions techniques et logicielles). | 
+| | Assurer une veille technologique sur les réseaux (évolutions techniques et logicielles). |
 | | Lire un schéma d'architecture réseau. | 
 | | Maintenir la documentation technique du réseau. | 
 | | Connaissance des architectures physiques et logiques des réseaux. | ok |

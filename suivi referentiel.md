@@ -68,6 +68,36 @@ in_menu: true
 | | Créer, configurer et manipuler des machines virtuelles. | 
 | | Assurer une veille technologique sur les systèmes d’exploitation Windows. | 
 | | Utiliser des documents techniques rédigé en anglais. | 
+| | Rechercher des informations techniques sur des sites francophones et anglophones. | 
+| | Effectuer la recette des postes clients. | 
+| | Respecter une procédure. | 
+| | Compléter une fiche d'intervention ou un compte rendu. | 
+| | Connaissance des différents systèmes d'exploitation. | 
+| | Connaissance des principes de base des machines virtuelles et des logiciels de virtualisation. | 
+| | Notion de la gestion des licences. | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
 | |  | 
 | |  | 
 | |  | 

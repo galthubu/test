@@ -4,10 +4,10 @@
     --couleur-primaire : #2a6442;
 }
 
-/* .container {
+.container {
     display: block;
     text-align: center;
-}*/
+}
 
 h1 {
     font-family: 'DotGothic16', sans-serif;
@@ -36,8 +36,4 @@ table {
     width: 100%;
     font-size: 70%;
     color: blue;
-}
-
-td {
-  text-align: left;
 }

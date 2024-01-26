@@ -56,7 +56,7 @@ in_menu: true
 ### CCP2 - Mettre en service des équipements numériques
 
 | Module | Compétences | |
-|:-------------|:------------|:---:|
+|:-------------|:------------|:-----:|
 | Installer, déployer et personnaliser un poste utilisateur | Utiliser les outils d’accessibilité du système d’exploitation pour adapter l’interface aux situations de handicap.  | 
 | | Installer le système d'exploitation, les pilotes et les logiciels. | ok |
 | | Déployer une matrice de poste utilisateur. | 
@@ -99,36 +99,36 @@ in_menu: true
 
 ### CCP3 – Intervenir sur les éléments de l'infrastructure
 
-| Module | Compétences |
-|:-------------|:------------|
+| Module | Compétences | |
+|:-------------|:------------|:-----:|
 |  Installer et configurer les équipements et services réseaux | Installer, câbler un routeur, un commutateur et un point d’accès sans fil. | 
 | | Mettre à jour sa configuration à partir de consignes de l’administrateur réseau. | 
-| | Configurer le service DHCP. | 
-| | Partager des fichiers sur un serveur de fichier d’un réseau local. | 
+| | Configurer le service DHCP. | ok |
+| | Partager des fichiers sur un serveur de fichier d’un réseau local. | ok |
 | | Configurer une imprimante réseau. | 
 | | Assurer une veille technologique sur les réseaux (évolutions techniques et logicielles). | 
 | | Lire un schéma d'architecture réseau. | 
 | | Maintenir la documentation technique du réseau. | 
-| | Connaissance des architectures physiques et logiques des réseaux. | 
-| | Connaissance des principes de DNS et de DHCP. | 
+| | Connaissance des architectures physiques et logiques des réseaux. | ok |
+| | Connaissance des principes de DNS et de DHCP. | ok |
 | | Connaissance des principes du routage IP. | 
-| | Connaissance des modèles OSI et TCP/IP. | 
-| | Connaissance des bases de l’adressage IP : adresse IP, masque de sous réseau, passerelle. | 
+| | Connaissance des modèles OSI et TCP/IP. | ok |
+| | Connaissance des bases de l’adressage IP : adresse IP, masque de sous réseau, passerelle. | ok |
 | | Connaissances des principes du NAT, PAT. | 
 | | Connaissance des règles de sécurisation des équipements (ssh). | 
 | | Connaissances de base sur le réseau local virtuel (VLAN). | 
-|  Intervenir sur un réseau sécurisé | Ajouter ou modifier une règle de filtrage sur un pare-feu d’un poste utilisateur. | 
+|  Intervenir sur un réseau sécurisé | Ajouter ou modifier une règle de filtrage sur un pare-feu d’un poste utilisateur. | ok |
 | | Configurer la connexion VPN utilisateur. | 
-| | Installer, configurer et sécuriser un réseau sans fil (nom de réseau, mot de passe et sécurité WI-FI, filtrage MAC).  | 
-| | Connecter un périphérique au réseau sans fil. | 
+| | Installer, configurer et sécuriser un réseau sans fil (nom de réseau, mot de passe et sécurité WI-FI, filtrage MAC).  | ok |
+| | Connecter un périphérique au réseau sans fil. | ok |
 | | Assurer une veille technologique sur les réseaux (évolutions techniques et logicielles). | 
 | | Effectuer la recette de l’intervention. | 
 | | Connaissance de l’architecture d’un réseau sécurisé (pare-feu, DMZ, ...). | 
 | | Connaissance du principe des VPN. | 
-|  Intervenir sur un annuaire Active Directory | Ajouter une ressource au domaine. | 
-| | Ajouter un utilisateur au domaine. | 
-| | Intervenir sur les droits d’accès des utilisateurs. | 
+|  Intervenir sur un annuaire Active Directory | Ajouter une ressource au domaine. | ok |
+| | Ajouter un utilisateur au domaine. | ok |
+| | Intervenir sur les droits d’accès des utilisateurs. | ok |
 | | Ajouter des imprimantes réseau au serveur d’impression. | 
 | | Mettre à jour la documentation technique. | 
 | | Connaissance de base de l’architecture Active Directory. | 
-| | Connaissance des règles de sécurité (Droits et GPO) | 
+| | Connaissance des règles de sécurité (Droits et GPO) | ok-ish | 

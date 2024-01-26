@@ -14,6 +14,8 @@ Consectetur adipiscing elit. **Aliquam efficitur libero** sed augue pharetra pos
 ![chat roux faisant sa toilette]({% link images/cat-323262_1920.jpg %})
 Test de maj n°3644
 
+<img src="images/cat-323262_1920.jpg" data-title="SUPER TEXT">
+
 ### Praesent at risus sed lacus scelerisque tempus. 
 
 Sed vitae dui quis orci consectetur maximus et sed libero. Curabitur mollis lacus non suscipit malesuada. Vestibulum sagittis efficitur convallis. Mauris in augue luctus, consequat metus sed, facilisis risus. Praesent bibendum varius est, ac maximus magna fermentum at. Etiam vitae consequat erat. Proin a lorem eget elit suscipit auctor id sit amet eros. Pellentesque pulvinar et neque sed pulvinar. Fusce egestas pulvinar elit, non eleifend ante tristique et. 

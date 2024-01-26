@@ -86,23 +86,48 @@ in_menu: true
 | | Connaissance de l'architecture physique du micro-ordinateur : alimentation, carte mère, processeur, mémoires, protections, SETUP, cartes d'extension.  | 
 | | Connaissance des différents types de connexion (Bluetooth, Ethernet, Wifi...). | 
 | | Connaissance de base des directives européennes relatives à la gestion des déchets électriques et électroniques. (DEEE).  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
+|  Contribuer à la sécurité d'un équipement numérique et de ses données | Sécuriser physiquement les équipements informatiques. | 
+| | Protéger les postes de travail des risques informatiques. | 
+| | Mettre en œuvre la sauvegarde des données, des systèmes et leurs restaurations. | 
+| | Assurer une veille technologique sur les différentes solutions de sauvegardes (logiciels, matériel, cloud..). | 
+| | Sensibiliser les utilisateurs aux règles d’hygiène informatique recommandée par l’ANSSI. | 
+| | Sensibiliser le cas échéant l’utilisateur au respect de la confidentialité des données personnelles. | 
+| | Connaissance des différents types de virus informatiques et d’intrusions. | 
+| | Connaissance des règles d’hygiène informatique recommandées par l’ANSSI. | 
+| | Connaissance des notions de redondance et de sauvegarde des données. | 
+
+### CCP3 – Intervenir sur les éléments de l'infrastructure
+
+| Module | Compétences |
+|:-------------|:------------|
+|  Installer et configurer les équipements et services réseaux | Installer, câbler un routeur, un commutateur et un point d’accès sans fil. | 
+| | Mettre à jour sa configuration à partir de consignes de l’administrateur réseau. | 
+| | Configurer le service DHCP. | 
+| | Partager des fichiers sur un serveur de fichier d’un réseau local. | 
+| | Configurer une imprimante réseau. | 
+| | Assurer une veille technologique sur les réseaux (évolutions techniques et logicielles). | 
+| | Lire un schéma d'architecture réseau. | 
+| | Maintenir la documentation technique du réseau. | 
+| | Connaissance des architectures physiques et logiques des réseaux. | 
+| | Connaissance des principes de DNS et de DHCP. | 
+| | Connaissance des principes du routage IP. | 
+| | Connaissance des modèles OSI et TCP/IP. | 
+| | Connaissance des bases de l’adressage IP : adresse IP, masque de sous réseau, passerelle. | 
+| | Connaissances des principes du NAT, PAT. | 
+| | Connaissance des règles de sécurisation des équipements (ssh). | 
+| | Connaissances de base sur le réseau local virtuel (VLAN). | 
+|  Intervenir sur un réseau sécurisé | Ajouter ou modifier une règle de filtrage sur un pare-feu d’un poste utilisateur. | 
+| | Configurer la connexion VPN utilisateur. | 
+| | Installer, configurer et sécuriser un réseau sans fil (nom de réseau, mot de passe et sécurité WI-FI, filtrage MAC).  | 
+| | Connecter un périphérique au réseau sans fil. | 
+| | Assurer une veille technologique sur les réseaux (évolutions techniques et logicielles). | 
+| | Effectuer la recette de l’intervention. | 
+| | Connaissance de l’architecture d’un réseau sécurisé (pare-feu, DMZ, ...). | 
+| | Connaissance du principe des VPN. | 
+|  Intervenir sur un annuaire Active Directory | Ajouter une ressource au domaine. | 
+| | Ajouter un utilisateur au domaine. | 
+| | Intervenir sur les droits d’accès des utilisateurs. | 
+| | Ajouter des imprimantes réseau au serveur d’impression. | 
+| | Mettre à jour la documentation technique. | 
+| | Connaissance de base de l’architecture Active Directory. | 
+| | Connaissance des règles de sécurité (Droits et GPO) | 

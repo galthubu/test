@@ -25,17 +25,49 @@ in_menu: true
 | | Connaissance de la démarche ITIL et des bonnes pratiques d'un centre de services. |
 | Assister à l’utilisation des ressources collaboratives et bureautiques | Expliquer l’utilisation d’un poste de travail, ou d’un téléphone ou logiciel. |
 | | Expliquer l’utilisation d’un navigateur Web, et des éléments de sécurité associés. |
-| |  |
-| |  |
-| |  |
-| |  |
-| |  |
-| |  |
-| |  |
-| |  |
-| |  |
-| |  |
-| |  |
-| |  |
-| |  |
+| | Expliquer les fonctionnalités des outils bureautiques. |
+| | Expliquer les fonctionnalités d’une tablette ou d’un smartphone. |
+| | Expliquer l’utilisation des outils de communication asynchrone (messagerie, forum, stockage, ...). |
+| | Expliquer l’utilisation des outils de communication synchrone (visioconférence, partage d’application, discussion, …).  |
+| | Expliquer l’utilisation des ressources collaboratives (Microsoft office 365 par ex). |
+| | Paramétrer les outils collaboratifs pour les besoins de l’entreprises. |
+| | Exploiter la solution de bureautique distribuée en Cloud. |
+| | Respecter les phases d’une intervention d’assistance. |
+| | Appliquer les techniques d’écoute active. |
+| | Rédiger et transmettre des notes, des consignes et des procédures en tenant compte des besoins du destinataire.  |
+| | Respecter et faire respecter les recommandations de sécurité concernant les équipements numériques. |
+| | Ecouter l’utilisateur et reformuler sa demande dans un langage adapté. |
+| | Prendre en compte d’éventuelles situations de handicap chez l’utilisateur et adapter la communication à ses besoins.  |
+| | Maîtriser sa communication en situation de crise. | 
+| | Connaissance de base et avancée des suites bureautiques. | 
+| | Connaissance des fonctionnalités d’un téléphone IP. | 
+| | Connaissance de la configuration et de l’utilisation d’une tablette et d’un smartphone. | 
+| | Connaissance des plateformes de travail collaboratif. | 
+| | Connaissance des règles de sécurité et de protection des données. | 
+| | Connaissance de l’usage des outils de communication en entreprise (réseaux sociaux, sites web, …). | 
+| | Connaissance des offres des principaux opérateurs de Cloud. | 
+| Diagnostiquer et résoudre un dysfonctionnement numérique | Utiliser les outils professionnels de tests et de diagnostics appropriés. | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
 | |  | 

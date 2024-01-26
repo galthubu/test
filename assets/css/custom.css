@@ -4,6 +4,11 @@
     --couleur-primaire : #2a6442;
 }
 
+body {
+    display: flex;
+    align-items: center;
+}
+
 h1 {
     font-family: 'DotGothic16', sans-serif;
 }
@@ -26,3 +31,4 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+

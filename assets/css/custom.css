@@ -4,7 +4,7 @@
     --couleur-primaire : #2a6442;
 }
 
-main {
+.container {
     display: flex;
     align-items: center;
 }

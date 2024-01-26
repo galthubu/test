@@ -5,8 +5,8 @@ in_menu: true
 ---
 ### CCP1 - Assister ou dépanner les utilisateurs
 
-| Sous-module | Compétences |
-|:-------------:|:------------:|
+| Module | Compétences |
+|:-------------|:------------|
 | Traiter un incident dans un centre de services et assurer le suivi du parc | Traiter un ticket d'incident à l’aide d’un outil de gestion (saisir le ticket, qualifier l'incident, décider de la suite à donner et clôturer le ticket). 
 | | Utiliser un script de questionnement ou une méthode d’analyse en résolution d’incident. |
 | | Utiliser une base de connaissance. |
@@ -55,8 +55,8 @@ in_menu: true
 
 ### CCP2 - Mettre en service des équipements numériques
 
-| Sous-module | Compétences |
-|:-------------:|:------------:|
+| Module | Compétences |
+|:-------------|:------------|
 | Installer, déployer et personnaliser un poste utilisateur | Utiliser les outils d’accessibilité du système d’exploitation pour adapter l’interface aux situations de handicap.  | 
 | | Installer le système d'exploitation, les pilotes et les logiciels. | 
 | | Déployer une matrice de poste utilisateur. | 

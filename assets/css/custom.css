@@ -35,7 +35,5 @@ img {
 table {
     width: 100%;
     font-size: 70%;
-    color: red;
-    display: flex;
-    align-items: justify-content;
+    color: blue;
 }

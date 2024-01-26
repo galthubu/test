@@ -56,7 +56,7 @@ in_menu: true
 ### CCP2 - Mettre en service des équipements numériques
 
 | Module | Compétences | |
-|:-------------|:------------|:-----:|
+|:-------------|:------------|:---------:|
 | Installer, déployer et personnaliser un poste utilisateur | Utiliser les outils d’accessibilité du système d’exploitation pour adapter l’interface aux situations de handicap.  | 
 | | Installer le système d'exploitation, les pilotes et les logiciels. | ok |
 | | Déployer une matrice de poste utilisateur. | 
@@ -76,7 +76,7 @@ in_menu: true
 | | Connaissance des principes de base des machines virtuelles et des logiciels de virtualisation. | ok |
 | | Notion de la gestion des licences. | 
 | | Connaissance d’un outil centralisé de gestion des équipements mobiles (MDM). | 
-|  Intervenir sur les composants matériels d’un ordinateur fixe ou mobile | Identifier, installer, configurer et tester les différents composants et leurs pilotes. | ok |
+| Intervenir sur les composants matériels d’un ordinateur fixe ou mobile | Identifier, installer, configurer et tester les différents composants et leurs pilotes. | ok |
 | | Interpréter les erreurs de démarrage d'un ordinateur fixe ou mobile. | ok |
 | | Ajouter, enlever ou remplacer les composants d’un ordinateur fixe ou mobile et en adapter la configuration. | ok |
 | | Compléter une fiche d'intervention ou un compte rendu. | ok |

@@ -5,7 +5,8 @@
 }
 
 .container {
-    align-items: center;
+    display: block;
+    text-align: center;
 }
 
 h1 {

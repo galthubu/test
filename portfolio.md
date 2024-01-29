@@ -21,4 +21,6 @@ in_menu: true
 
 </div> 
 
-[Primary](#){.btn .btn-primary} 
+[left]Texte àligné à gauche[/left]
+[center]Texte centré[/center]
+[right]Texte algné à droite[/right] 

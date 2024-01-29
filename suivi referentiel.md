@@ -57,7 +57,7 @@ in_menu: true
 
 | Module | Compétences | |
 |:-------------|:------------|:---------:|
-| Installer, déployer et personnaliser un poste utilisateur | Utiliser les outils d’accessibilité du système d’exploitation pour adapter l’interface aux situations de handicap. |
+| Installer, déployer et personnaliser un poste utilisateur | Utiliser les outils d’accessibilité du système d’exploitation pour adapter l’interface aux situations de handicap. |ok-ish |
 | | Installer le système d'exploitation, les pilotes et les logiciels. | ok |
 | | Déployer une matrice de poste utilisateur. |
 | | Partitionner un disque. | ok |
@@ -115,7 +115,7 @@ in_menu: true
 | | Connaissance des modèles OSI et TCP/IP. | ok |
 | | Connaissance des bases de l’adressage IP : adresse IP, masque de sous réseau, passerelle. | ok |
 | | Connaissances des principes du NAT, PAT. | 
-| | Connaissance des règles de sécurisation des équipements (ssh). | 
+| | Connaissance des règles de sécurisation des équipements (ssh). | ok-ish |
 | | Connaissances de base sur le réseau local virtuel (VLAN). | 
 |  Intervenir sur un réseau sécurisé | Ajouter ou modifier une règle de filtrage sur un pare-feu d’un poste utilisateur. | ok |
 | | Configurer la connexion VPN utilisateur. | 
@@ -124,7 +124,7 @@ in_menu: true
 | | Assurer une veille technologique sur les réseaux (évolutions techniques et logicielles). | 
 | | Effectuer la recette de l’intervention. | 
 | | Connaissance de l’architecture d’un réseau sécurisé (pare-feu, DMZ, ...). | 
-| | Connaissance du principe des VPN. | 
+| | Connaissance du principe des VPN. | ok-ish |
 |  Intervenir sur un annuaire Active Directory | Ajouter une ressource au domaine. | ok |
 | | Ajouter un utilisateur au domaine. | ok |
 | | Intervenir sur les droits d’accès des utilisateurs. | ok |

@@ -100,8 +100,7 @@ img {
     transition: left 0.65s ease-out;
 }
 
-
-#bouncingTxt {
+.bouncingTxt {
     animation: 3s infinite alternate slidein;
 }
 

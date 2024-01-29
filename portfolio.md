@@ -20,3 +20,5 @@ in_menu: true
     <img class="slide-img" src="https://www.codeur.com/tuto/wp-content/uploads/2021/12/slide3.jpg">
 
 </div> 
+
+[Primary](#){.btn .btn-primary} 

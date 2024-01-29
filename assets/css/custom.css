@@ -53,7 +53,7 @@ html, body {
   background: #33CCCC; /* Fallback */
   animation: color 1s infinite linear;
   text-align: center;
-  padding: 2em;
+  /*padding: 2em;*/
 }
 img {
     max-width: 100%;

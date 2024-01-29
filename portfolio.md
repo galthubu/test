@@ -22,7 +22,3 @@ in_menu: true
     <img class="slide-img" src="https://www.codeur.com/tuto/wp-content/uploads/2021/12/slide3.jpg">
 
 </div> 
-
-[left]Texte àligné à gauche[/left]
-[center]Texte centré[/center]
-[right]Texte algné à droite[/right] 

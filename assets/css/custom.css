@@ -51,6 +51,10 @@ html, body {
     margin: 0;
     padding: 0;
     /* background-color: #61605e;*/
+  background: #33CCCC; /* Fallback */
+  animation: color 9s infinite linear;
+  text-align: center;
+  padding: 2em;
 }
 img {
     max-width: 100%;
@@ -118,4 +122,13 @@ img {
 
 iframe {
   border: 20px solid green;
+}
+
+@keyframes color {
+  0%   { background: #33CCCC; }
+  20%  { background: #33CC36; }
+  40%  { background: #B8CC33; }
+  60%  { background: #FCCA00; }
+  80%  { background: #33CC36; }
+  100% { background: #33CCCC; }
 }

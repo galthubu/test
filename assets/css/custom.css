@@ -41,7 +41,7 @@ th {
     text-align: center;
 }
 
-tr,td, iframe {
+tr,td {
   border: 1px solid green;
 }
 
@@ -115,4 +115,8 @@ img {
     margin-left: 0%;
     width: 100%;
   }
+}
+
+iframe {
+  border: 1px solid green;
 }

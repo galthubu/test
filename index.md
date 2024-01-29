@@ -11,7 +11,7 @@ Consectetur adipiscing elit. **Aliquam efficitur libero** sed augue pharetra pos
 
 ## Lorem ipsum dolor sit amet 2 {#lol2}
 
-![chat roux faisant sa toilette]({% link images/cat-323262_1920.jpg %})
+![chat roux faisant sa toilette]({% link https://cdn.pixabay.com/photo/2016/03/17/06/49/renovation-1262389_960_720.png %})
 Test de maj n°3644
 
 <img src="images/cat-323262_1920.jpg" data-title="SUPER TEXT">

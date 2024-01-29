@@ -3,7 +3,7 @@ title: "Portfolio"
 order: 4
 in_menu: true
 ---
-### Titre?{#bouncingTxt}
+### Titre? {#bouncingTxt}
 
 <div class="slider-container">
     <div class="menu">

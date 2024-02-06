@@ -30,6 +30,18 @@ h1 {
     flex-direction: row;
 }
 
+.barre {
+      text-decoration: line-through;
+}
+
+.italique {
+    font-style: italic;
+}
+
+.gras {
+    font-weight: bold;
+}
+
 /*img {
     display: flex;
     align-items: center;

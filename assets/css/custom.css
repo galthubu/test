@@ -25,12 +25,17 @@ h1 {
     color: #FFC947;
 }
 
-img {
+.deport {
+    display: flex;
+    align-items: right;
+}
+
+/*img {
     display: flex;
     align-items: center;
     margin-left: auto;
     margin-right: auto;
-}
+}*/
 
 table {
     width: 100%;

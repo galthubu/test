@@ -1,5 +1,5 @@
 ---
-title: "<a href=\"linkedin.com\">CV</a>"
+title: "CV"
 order: 2
 in_menu: true
 ---

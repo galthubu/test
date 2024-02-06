@@ -1,13 +1,14 @@
 ---
-title: "Accueil"
+title: "Vladimir"
 order: 0
 in_menu: true
 ---
-# Lorem Ipsum
+# Vladimir Test
 
-## Lorem ipsum dolor sit amet {#lol}
+## Qui suis-je ? {#lol}
 
-Consectetur adipiscing elit. **Aliquam efficitur libero** sed augue pharetra posuere nec nec est. Curabitur sagittis facilisis elit et vehicula. Duis facilisis enim ac nisi egestas dignissim. Sed porttitor erat non pharetra efficitur. Cras feugiat mattis leo eu luctus. Nunc vitae sem suscipit ligula porta consectetur eget non nunc. **_Cras et sagittis sem._** Aenean pretium fermentum nisl eget suscipit. Aliquam fermentum porttitor elit, nec malesuada enim maximus in. **Cras sed mattis ipsum, vel ullamcorper lectus.** Mauris id lacinia turpis. In a interdum augue, in dapibus diam. Cras quis euismod lorem, non congue arcu. 
+Passionné depuis toujours par les trucs qu'on branche dans des bidules, les ventilos qui font ~~brrr~~  _vrrrrrr_ et les micro-courants électriques. Au-delà des aspects techniques, **aider l'Autre** reste un moteur pour moi et c'est dans ce but que j'ai commencé à me renseigner sur les métiers de l'assistance. 
+J'ai longtemps hésité avant de me lancer et j'ai finalement commencé une formation de Technicien d'Assistance Informatique pour démystifier tout ça et faire de cette passion mon métier.
 
 ## Lorem ipsum dolor sit amet 2 {#lol2}
 

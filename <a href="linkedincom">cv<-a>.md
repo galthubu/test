@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "<a href=\"linkedin.com\">CV</a>"
 order: 2
 in_menu: true
 ---
@@ -7,7 +7,7 @@ in_menu: true
 
 2022 - Plieur d'enclumes (Enclumes Inc, Bourgoin) \
 2021 - Souffleur d'avions en papier (PaperCo, Villefontaine) \
-2018-2020 - Employé monovalent (InkInc, Paris) \
+2018-2020 - Employé monovalent (InkInc, Paris)
 
 ## Compétences
 

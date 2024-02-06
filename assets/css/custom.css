@@ -9,6 +9,10 @@
     text-align: center;
 }
 
+footer {
+    visibility: hidden;
+}
+
 h1 {
     font-family: 'DotGothic16', sans-serif;
 }
@@ -72,6 +76,8 @@ html, body {
   text-align: center;
   /*padding: 2em;*/
 }
+
+
 img {
     max-width: 100%;
 }

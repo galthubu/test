@@ -5,12 +5,12 @@ in_menu: true
 ---
 # Vladimir Test
 <div class="deport">
-## Qui suis-je ? {#lol}
+<h2 id="lol"> Qui suis-je ?</h2>
 
 Passionné depuis toujours par les trucs qu'on branche dans des bidules, les ventilos qui font ~~brrr~~  _vrrrrrr_ et les micro-courants électriques. Au-delà des aspects techniques, **aider l'Autre** reste un moteur pour moi et c'est dans ce but que j'ai commencé à me renseigner sur les métiers de l'assistance. 
 J'ai longtemps hésité avant de me lancer et j'ai finalement commencé une formation de Technicien d'Assistance Informatique pour démystifier tout ça et faire de cette passion mon métier.
 
-<img src="images/monkey-2710658_960_720.jpg">
+<img width="75%" src="images/monkey-2710658_960_720.jpg">
 </div>
 ## Mon projet {#lol2}
 

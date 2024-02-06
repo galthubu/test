@@ -17,6 +17,6 @@ J'ai longtemps hésité avant de me lancer et j'ai finalement commencé une form
 
 
 
-### Praesent at risus sed lacus scelerisque tempus. 
+### Monter en compétences et acquérir de l'expérience
 
-Sed vitae dui quis orci consectetur maximus et sed libero. Curabitur mollis lacus non suscipit malesuada. Vestibulum sagittis efficitur convallis. Mauris in augue luctus, consequat metus sed, facilisis risus. Praesent bibendum varius est, ac maximus magna fermentum at. Etiam vitae consequat erat. Proin a lorem eget elit suscipit auctor id sit amet eros. Pellentesque pulvinar et neque sed pulvinar. Fusce egestas pulvinar elit, non eleifend ante tristique et. 
+Si le contenu varié de la formation, dont vous pourrez trouver un détail <a href="https://galthubu.github.io/test/suivi%20referentiel.html">ici</a>, m'a permis une première approche des métiers de l'assistance informatique et permis d'acquérir des compétences techniques, une expérience sur le terrain, en immercion, m'est indispensable pour parachever cette formation et valider mon diplôme. 

@@ -21,6 +21,6 @@ Si le contenu varié de la formation, dont vous pourrez trouver un détail <a hr
 ## Ensemble
 
 Ensemble nous pourrons écouter les ventilateurs avec encore plus d'attention et de professionalisme, ensemble la vie serait plus belle et le monde plus juste, ensemble vous aurez un stagiaire idéal et moi l'expérience qu'il me manque.
-Alors pourquoi hésiter? CONTACTEZ-MOI !
+Alors pourquoi hésiter? <a href="https://galthubu.github.io/test/contact.html">CONTACTEZ-MOI !</a>
 
 ![Texte décrivant l'image]({% link images/monkey-2710657_960_720.jpg %}) 

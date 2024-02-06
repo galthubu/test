@@ -3,6 +3,8 @@ title: "Contact"
 order: 1
 in_menu: true
 ---
-Blablablablablablablabla.
+Mon profil vous intéresse?
+Vous voulez en savoir plus?
+Vous savez vous servir d'un mail?
 
-Blabla blablabla : [coucou@lechappeebelle.team](mailto:_mail_@_fournisseurDeMail.youhou_) 
+Alors n'hésitez plus : [bob@bob.lol](mailto:_bob_@_bob.lol_) 

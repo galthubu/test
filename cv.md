@@ -23,3 +23,6 @@ Lecture et application de documentation technique dans un contexte monotâche ma
 ## Centres d'intérêt 
 
 Cueillette de fleurs, jeux vidéos, montage et démontage de PC cassés 
+
+## Pour en savoir plus
+<a href="">CONTACTEZ-MOI!</a> ou sur <a href="linkedin.com">LinkedIn</a> 

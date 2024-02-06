@@ -3,8 +3,8 @@ title: "Contact"
 order: 1
 in_menu: true
 ---
-Mon profil vous intéresse?
-Vous voulez en savoir plus?
-Vous savez vous servir d'un mail?
+#### Mon profil vous intéresse?
+### Vous voulez en savoir plus?
+## Vous savez vous servir d'un mail?
 
-Alors n'hésitez plus : [bob@bob.lol](mailto:_bob_@_bob.lol_) 
+# Alors n'hésitez plus : [bob@bob.lol](mailto:_bob_@_bob.lol_) 

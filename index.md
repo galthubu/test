@@ -18,7 +18,7 @@ J'ai longtemps hésité avant de me lancer et j'ai finalement commencé une form
 
 Si le contenu varié de la formation, dont vous pourrez trouver un détail <a href="https://galthubu.github.io/test/suivi%20referentiel.html">ici</a>, m'a permis une première approche des métiers de l'assistance informatique et permis d'acquérir des compétences techniques solides, une expérience sur le terrain, en immercion, m'est indispensable pour parachever cette formation et valider mon diplôme. 
 
-## Ensemble
+### Ensemble
 
 Ensemble nous pourrons écouter les ventilateurs avec encore plus d'attention et de professionalisme, ensemble la vie serait plus belle et le monde plus juste, ensemble vous aurez un stagiaire idéal et moi l'expérience qu'il me manque.
 Alors pourquoi hésiter? <a href="https://galthubu.github.io/test/contact.html">CONTACTEZ-MOI !</a>

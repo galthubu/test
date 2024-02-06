@@ -27,7 +27,7 @@ h1 {
 
 .deport {
     display: flex;
-    align-items: right;
+    flex-direction: row;
 }
 
 /*img {

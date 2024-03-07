@@ -13,14 +13,14 @@ in_menu: true
 | | Utiliser un logiciel de gestion de parc et de gestion d’incidents. | ok |
 | | Prendre la main à distance sur un poste utilisateur. | ok |
 | | Assurer la gestion de parc. |
-| | Savoir transcrire de manière résumée et précise d’incident les actions réalisées dans les dossiers d’incident.  | ok-ish |
+| | Savoir transcrire de manière résumée et précise d’incident les actions réalisées dans les dossiers d’incident.  | ±ok |
 | | Respecter les phases d’une intervention d’assistance. |
 | | Appliquer les techniques d’écoute active. |
 | | Maîtriser sa communication en situation de crise. |
-| | Commenter l’intervention pour l’utilisateur lors d’une prise de contrôle sur son poste. | ok-ish |
-| | Répondre aux questions de l’utilisateur dans un langage adapté. | ok-ish |
-| | Ecouter l’utilisateur et reformuler sa demande dans un langage adapté. | ok-ish |
-| | Prendre en compte d’éventuelles situations de handicap chez l’utilisateur et adapter la communication à ses besoins.  | ok-ish |
+| | Commenter l’intervention pour l’utilisateur lors d’une prise de contrôle sur son poste. | ±ok |
+| | Répondre aux questions de l’utilisateur dans un langage adapté. | ±ok |
+| | Ecouter l’utilisateur et reformuler sa demande dans un langage adapté. | ±ok |
+| | Prendre en compte d’éventuelles situations de handicap chez l’utilisateur et adapter la communication à ses besoins.  | ±ok |
 | | Connaissance de l’organisation d’un centre de services. | ok |
 | | Connaissance de la démarche ITIL et des bonnes pratiques d'un centre de services. | ok |
 | Assister à l’utilisation des ressources collaboratives et bureautiques | Expliquer l’utilisation d’un poste de travail, ou d’un téléphone ou logiciel. |
@@ -41,7 +41,7 @@ in_menu: true
 | | Maîtriser sa communication en situation de crise. |
 | | Connaissance de base et avancée des suites bureautiques. | ok |
 | | Connaissance des fonctionnalités d’un téléphone IP. |
-| | Connaissance de la configuration et de l’utilisation d’une tablette et d’un smartphone. | ok-ish |
+| | Connaissance de la configuration et de l’utilisation d’une tablette et d’un smartphone. | ±ok |
 | | Connaissance des plateformes de travail collaboratif. | ok |
 | | Connaissance des règles de sécurité et de protection des données. |
 | | Connaissance de l’usage des outils de communication en entreprise (réseaux sociaux, sites web, …). |
@@ -57,7 +57,7 @@ in_menu: true
 
 | Module | Compétences | |
 |:-------------|:------------|:---------:|
-| Installer, déployer et personnaliser un poste utilisateur | Utiliser les outils d’accessibilité du système d’exploitation pour adapter l’interface aux situations de handicap. |ok-ish |
+| Installer, déployer et personnaliser un poste utilisateur | Utiliser les outils d’accessibilité du système d’exploitation pour adapter l’interface aux situations de handicap. | ±ok |
 | | Installer le système d'exploitation, les pilotes et les logiciels. | ok |
 | | Déployer une matrice de poste utilisateur. |
 | | Partitionner un disque. | ok |
@@ -115,7 +115,7 @@ in_menu: true
 | | Connaissance des modèles OSI et TCP/IP. | ok |
 | | Connaissance des bases de l’adressage IP : adresse IP, masque de sous réseau, passerelle. | ok |
 | | Connaissances des principes du NAT, PAT. | 
-| | Connaissance des règles de sécurisation des équipements (ssh). | ok-ish |
+| | Connaissance des règles de sécurisation des équipements (ssh). | ±ok |
 | | Connaissances de base sur le réseau local virtuel (VLAN). | 
 |  Intervenir sur un réseau sécurisé | Ajouter ou modifier une règle de filtrage sur un pare-feu d’un poste utilisateur. | ok |
 | | Configurer la connexion VPN utilisateur. | 
@@ -124,11 +124,11 @@ in_menu: true
 | | Assurer une veille technologique sur les réseaux (évolutions techniques et logicielles). | 
 | | Effectuer la recette de l’intervention. | 
 | | Connaissance de l’architecture d’un réseau sécurisé (pare-feu, DMZ, ...). | 
-| | Connaissance du principe des VPN. | ok-ish |
+| | Connaissance du principe des VPN. | ±ok |
 |  Intervenir sur un annuaire Active Directory | Ajouter une ressource au domaine. | ok |
 | | Ajouter un utilisateur au domaine. | ok |
 | | Intervenir sur les droits d’accès des utilisateurs. | ok |
 | | Ajouter des imprimantes réseau au serveur d’impression. | 
 | | Mettre à jour la documentation technique. | 
 | | Connaissance de base de l’architecture Active Directory. | 
-| | Connaissance des règles de sécurité (Droits et GPO) | ok-ish | 
+| | Connaissance des règles de sécurité (Droits et GPO) | ±ok | 

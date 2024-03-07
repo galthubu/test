@@ -13,7 +13,7 @@ in_menu: true
 | | Utiliser un logiciel de gestion de parc et de gestion d’incidents. | ok |
 | | Prendre la main à distance sur un poste utilisateur. | ok |
 | | Assurer la gestion de parc. | ±ok |
-| | Savoir transcrire de manière résumée et précise d’incident les actions réalisées dans les dossiers d’incident.  | ok |
+| | Savoir transcrire de manière résumée et précise les actions réalisées dans les dossiers d’incident.  | ok |
 | | Respecter les phases d’une intervention d’assistance. | ±ok |
 | | Appliquer les techniques d’écoute active. | ok |
 | | Maîtriser sa communication en situation de crise. | ok |
@@ -33,12 +33,12 @@ in_menu: true
 | | Paramétrer les outils collaboratifs pour les besoins de l’entreprises. |
 | | Exploiter la solution de bureautique distribuée en Cloud. |
 | | Respecter les phases d’une intervention d’assistance. | ±ok |
-| | Appliquer les techniques d’écoute active. |
+| | Appliquer les techniques d’écoute active. | ok |
 | | Rédiger et transmettre des notes, des consignes et des procédures en tenant compte des besoins du destinataire.  | ok |
 | | Respecter et faire respecter les recommandations de sécurité concernant les équipements numériques. | ±ok |
 | | Ecouter l’utilisateur et reformuler sa demande dans un langage adapté. | ±ok |
-| | Prendre en compte d’éventuelles situations de handicap chez l’utilisateur et adapter la communication à ses besoins.  |
-| | Maîtriser sa communication en situation de crise. |
+| | Prendre en compte d’éventuelles situations de handicap chez l’utilisateur et adapter la communication à ses besoins.  | ok |
+| | Maîtriser sa communication en situation de crise. | ok |
 | | Connaissance de base et avancée des suites bureautiques. | ok |
 | | Connaissance des fonctionnalités d’un téléphone IP. |
 | | Connaissance de la configuration et de l’utilisation d’une tablette et d’un smartphone. | ±ok |

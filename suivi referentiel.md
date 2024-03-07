@@ -12,9 +12,9 @@ in_menu: true
 | | Utiliser une base de connaissance. | ok |
 | | Utiliser un logiciel de gestion de parc et de gestion d’incidents. | ok |
 | | Prendre la main à distance sur un poste utilisateur. | ok |
-| | Assurer la gestion de parc. |
+| | Assurer la gestion de parc. | ±ok |
 | | Savoir transcrire de manière résumée et précise d’incident les actions réalisées dans les dossiers d’incident.  | ±ok |
-| | Respecter les phases d’une intervention d’assistance. |
+| | Respecter les phases d’une intervention d’assistance. | ±ok |
 | | Appliquer les techniques d’écoute active. |
 | | Maîtriser sa communication en situation de crise. |
 | | Commenter l’intervention pour l’utilisateur lors d’une prise de contrôle sur son poste. | ±ok |
@@ -23,20 +23,20 @@ in_menu: true
 | | Prendre en compte d’éventuelles situations de handicap chez l’utilisateur et adapter la communication à ses besoins.  | ±ok |
 | | Connaissance de l’organisation d’un centre de services. | ok |
 | | Connaissance de la démarche ITIL et des bonnes pratiques d'un centre de services. | ok |
-| Assister à l’utilisation des ressources collaboratives et bureautiques | Expliquer l’utilisation d’un poste de travail, ou d’un téléphone ou logiciel. |
-| | Expliquer l’utilisation d’un navigateur Web, et des éléments de sécurité associés. |
-| | Expliquer les fonctionnalités des outils bureautiques. |
-| | Expliquer les fonctionnalités d’une tablette ou d’un smartphone. |
-| | Expliquer l’utilisation des outils de communication asynchrone (messagerie, forum, stockage, ...). |
-| | Expliquer l’utilisation des outils de communication synchrone (visioconférence, partage d’application, discussion, …).  |
-| | Expliquer l’utilisation des ressources collaboratives (Microsoft office 365 par ex). |
+| Assister à l’utilisation des ressources collaboratives et bureautiques | Expliquer l’utilisation d’un poste de travail, ou d’un téléphone ou logiciel. | ±ok |
+| | Expliquer l’utilisation d’un navigateur Web, et des éléments de sécurité associés. | ±ok |
+| | Expliquer les fonctionnalités des outils bureautiques. | ±ok |
+| | Expliquer les fonctionnalités d’une tablette ou d’un smartphone. | ±ok |
+| | Expliquer l’utilisation des outils de communication asynchrone (messagerie, forum, stockage, ...). | ±ok |
+| | Expliquer l’utilisation des outils de communication synchrone (visioconférence, partage d’application, discussion, …).  | ±ok |
+| | Expliquer l’utilisation des ressources collaboratives (Microsoft office 365 par ex). | ±ok |
 | | Paramétrer les outils collaboratifs pour les besoins de l’entreprises. |
 | | Exploiter la solution de bureautique distribuée en Cloud. |
-| | Respecter les phases d’une intervention d’assistance. |
+| | Respecter les phases d’une intervention d’assistance. | ±ok |
 | | Appliquer les techniques d’écoute active. |
 | | Rédiger et transmettre des notes, des consignes et des procédures en tenant compte des besoins du destinataire.  | ok |
-| | Respecter et faire respecter les recommandations de sécurité concernant les équipements numériques. |
-| | Ecouter l’utilisateur et reformuler sa demande dans un langage adapté. |
+| | Respecter et faire respecter les recommandations de sécurité concernant les équipements numériques. | ±ok |
+| | Ecouter l’utilisateur et reformuler sa demande dans un langage adapté. | ±ok |
 | | Prendre en compte d’éventuelles situations de handicap chez l’utilisateur et adapter la communication à ses besoins.  |
 | | Maîtriser sa communication en situation de crise. |
 | | Connaissance de base et avancée des suites bureautiques. | ok |
@@ -50,8 +50,8 @@ in_menu: true
 | | Appliquer une démarche méthodique de résolution de problème. | ok |
 | | Connaissance de l’ensemble des couches d’un système : Matériel, BIOS, Système, réseau, et applicatifs. | ok |
 | | Connaissance de l’ensemble des outils bureautique. | ok |
-| | Connaissance de l’ensemble des bases de la sécurité informatique (confidentialité des données, vulnérabilités des logiciels, menaces, risques, chiffrement, sécurité TCP/IP, pare-feu…).  |
-| | Connaissance du modèle OSI-TCP/IP. | 
+| | Connaissance de l’ensemble des bases de la sécurité informatique (confidentialité des données, vulnérabilités des logiciels, menaces, risques, chiffrement, sécurité TCP/IP, pare-feu…).  | ok |
+| | Connaissance du modèle OSI-TCP/IP. |  ok |
 
 ### CCP2 - Mettre en service des équipements numériques
 
@@ -59,7 +59,7 @@ in_menu: true
 |:-------------|:------------|:---------:|
 | Installer, déployer et personnaliser un poste utilisateur | Utiliser les outils d’accessibilité du système d’exploitation pour adapter l’interface aux situations de handicap. | ±ok |
 | | Installer le système d'exploitation, les pilotes et les logiciels. | ok |
-| | Déployer une matrice de poste utilisateur. |
+| | Déployer une matrice de poste utilisateur. | ±ok |
 | | Partitionner un disque. | ok |
 | | Configurer l’environnement du poste utilisateur. | ok |
 | | Raccorder le poste utilisateur à un réseau filaire ou sans fil. | ok |
@@ -69,7 +69,7 @@ in_menu: true
 | | Assurer une veille technologique sur les systèmes d’exploitation Windows. | ok |
 | | Utiliser des documents techniques rédigé en anglais. | ok |
 | | Rechercher des informations techniques sur des sites francophones et anglophones. | ok |
-| | Effectuer la recette des postes clients. |
+| | Effectuer la recette des postes clients. | ±ok |
 | | Respecter une procédure. | ok |
 | | Compléter une fiche d'intervention ou un compte rendu. | ok |
 | | Connaissance des différents systèmes d'exploitation. | ok |
@@ -91,11 +91,11 @@ in_menu: true
 | | Protéger les postes de travail des risques informatiques. | ok |
 | | Mettre en œuvre la sauvegarde des données, des systèmes et leurs restaurations. |
 | | Assurer une veille technologique sur les différentes solutions de sauvegardes (logiciels, matériel, cloud..). |
-| | Sensibiliser les utilisateurs aux règles d’hygiène informatique recommandée par l’ANSSI. |
+| | Sensibiliser les utilisateurs aux règles d’hygiène informatique recommandée par l’ANSSI. | ±ok |
 | | Sensibiliser le cas échéant l’utilisateur au respect de la confidentialité des données personnelles. | ok |
 | | Connaissance des différents types de virus informatiques et d’intrusions. | ok |
-| | Connaissance des règles d’hygiène informatique recommandées par l’ANSSI. |
-| | Connaissance des notions de redondance et de sauvegarde des données. |
+| | Connaissance des règles d’hygiène informatique recommandées par l’ANSSI. | ±ok |
+| | Connaissance des notions de redondance et de sauvegarde des données. | ±ok |
 
 ### CCP3 – Intervenir sur les éléments de l'infrastructure
 
@@ -111,7 +111,7 @@ in_menu: true
 | | Maintenir la documentation technique du réseau. | 
 | | Connaissance des architectures physiques et logiques des réseaux. | ok |
 | | Connaissance des principes de DNS et de DHCP. | ok |
-| | Connaissance des principes du routage IP. | 
+| | Connaissance des principes du routage IP. | ±ok |
 | | Connaissance des modèles OSI et TCP/IP. | ok |
 | | Connaissance des bases de l’adressage IP : adresse IP, masque de sous réseau, passerelle. | ok |
 | | Connaissances des principes du NAT, PAT. | 
@@ -122,7 +122,7 @@ in_menu: true
 | | Installer, configurer et sécuriser un réseau sans fil (nom de réseau, mot de passe et sécurité WI-FI, filtrage MAC).  | ok |
 | | Connecter un périphérique au réseau sans fil. | ok |
 | | Assurer une veille technologique sur les réseaux (évolutions techniques et logicielles). | 
-| | Effectuer la recette de l’intervention. | 
+| | Effectuer la recette de l’intervention. | ±ok |
 | | Connaissance de l’architecture d’un réseau sécurisé (pare-feu, DMZ, ...). | 
 | | Connaissance du principe des VPN. | ±ok |
 |  Intervenir sur un annuaire Active Directory | Ajouter une ressource au domaine. | ok |
@@ -130,5 +130,5 @@ in_menu: true
 | | Intervenir sur les droits d’accès des utilisateurs. | ok |
 | | Ajouter des imprimantes réseau au serveur d’impression. | 
 | | Mettre à jour la documentation technique. | 
-| | Connaissance de base de l’architecture Active Directory. | 
+| | Connaissance de base de l’architecture Active Directory. | ±ok |
 | | Connaissance des règles de sécurité (Droits et GPO) | ±ok | 

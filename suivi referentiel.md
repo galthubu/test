@@ -13,13 +13,13 @@ in_menu: true
 | | Utiliser un logiciel de gestion de parc et de gestion d’incidents. | ok |
 | | Prendre la main à distance sur un poste utilisateur. | ok |
 | | Assurer la gestion de parc. | ±ok |
-| | Savoir transcrire de manière résumée et précise d’incident les actions réalisées dans les dossiers d’incident.  | ±ok |
+| | Savoir transcrire de manière résumée et précise d’incident les actions réalisées dans les dossiers d’incident.  | ok |
 | | Respecter les phases d’une intervention d’assistance. | ±ok |
-| | Appliquer les techniques d’écoute active. |
-| | Maîtriser sa communication en situation de crise. |
-| | Commenter l’intervention pour l’utilisateur lors d’une prise de contrôle sur son poste. | ±ok |
-| | Répondre aux questions de l’utilisateur dans un langage adapté. | ±ok |
-| | Ecouter l’utilisateur et reformuler sa demande dans un langage adapté. | ±ok |
+| | Appliquer les techniques d’écoute active. | ok |
+| | Maîtriser sa communication en situation de crise. | ok |
+| | Commenter l’intervention pour l’utilisateur lors d’une prise de contrôle sur son poste. | ok |
+| | Répondre aux questions de l’utilisateur dans un langage adapté. | ok |
+| | Ecouter l’utilisateur et reformuler sa demande dans un langage adapté. | ok |
 | | Prendre en compte d’éventuelles situations de handicap chez l’utilisateur et adapter la communication à ses besoins.  | ±ok |
 | | Connaissance de l’organisation d’un centre de services. | ok |
 | | Connaissance de la démarche ITIL et des bonnes pratiques d'un centre de services. | ok |
@@ -43,8 +43,8 @@ in_menu: true
 | | Connaissance des fonctionnalités d’un téléphone IP. |
 | | Connaissance de la configuration et de l’utilisation d’une tablette et d’un smartphone. | ±ok |
 | | Connaissance des plateformes de travail collaboratif. | ok |
-| | Connaissance des règles de sécurité et de protection des données. |
-| | Connaissance de l’usage des outils de communication en entreprise (réseaux sociaux, sites web, …). |
+| | Connaissance des règles de sécurité et de protection des données. | ok |
+| | Connaissance de l’usage des outils de communication en entreprise (réseaux sociaux, sites web, …). | ok |
 | | Connaissance des offres des principaux opérateurs de Cloud. | ok |
 | Diagnostiquer et résoudre un dysfonctionnement numérique | Utiliser les outils professionnels de tests et de diagnostics appropriés. | ok |
 | | Appliquer une démarche méthodique de résolution de problème. | ok |
@@ -114,16 +114,16 @@ in_menu: true
 | | Connaissance des principes du routage IP. | ±ok |
 | | Connaissance des modèles OSI et TCP/IP. | ok |
 | | Connaissance des bases de l’adressage IP : adresse IP, masque de sous réseau, passerelle. | ok |
-| | Connaissances des principes du NAT, PAT. | 
+| | Connaissances des principes du NAT, PAT. | ok |
 | | Connaissance des règles de sécurisation des équipements (ssh). | ±ok |
-| | Connaissances de base sur le réseau local virtuel (VLAN). | 
+| | Connaissances de base sur le réseau local virtuel (VLAN). | ok |
 |  Intervenir sur un réseau sécurisé | Ajouter ou modifier une règle de filtrage sur un pare-feu d’un poste utilisateur. | ok |
 | | Configurer la connexion VPN utilisateur. | 
 | | Installer, configurer et sécuriser un réseau sans fil (nom de réseau, mot de passe et sécurité WI-FI, filtrage MAC).  | ok |
 | | Connecter un périphérique au réseau sans fil. | ok |
 | | Assurer une veille technologique sur les réseaux (évolutions techniques et logicielles). | 
 | | Effectuer la recette de l’intervention. | ±ok |
-| | Connaissance de l’architecture d’un réseau sécurisé (pare-feu, DMZ, ...). | 
+| | Connaissance de l’architecture d’un réseau sécurisé (pare-feu, DMZ, ...). | ok |
 | | Connaissance du principe des VPN. | ±ok |
 |  Intervenir sur un annuaire Active Directory | Ajouter une ressource au domaine. | ok |
 | | Ajouter un utilisateur au domaine. | ok |

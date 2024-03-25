@@ -71,10 +71,8 @@ html, body {
     height: 100%;
     margin: 0;
     padding: 0;
-  background: #33CCCC; /* Fallback */
-  /*animation: color 0.5s infinite linear;*/
+  background: #2f3540;
   text-align: center;
-  /*padding: 2em;*/
 }
 
 

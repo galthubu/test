@@ -78,7 +78,7 @@ html, body {
 }
 
 p + a {
-    color: #ffffff;
+    color: #ffffff !important;
 }
 
 img {

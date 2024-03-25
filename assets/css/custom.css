@@ -77,6 +77,9 @@ html, body {
     color: #ffffff;
 }
 
+p + a {
+    color: #ffffff;
+}
 
 img {
     max-width: 100%;

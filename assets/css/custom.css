@@ -72,8 +72,9 @@ html, body {
     height: 100%;
     margin: 0;
     padding: 0;
-  background: #2f3540;
-  text-align: center;
+    background: #2f3540;
+    text-align: center;
+    color: #ffffff;
 }
 
 
@@ -123,10 +124,6 @@ img {
     left: 0;
     z-index: 100;
     transition: left 0.65s ease-out;
-}
-
-.bouncingTxt {
-    animation: 3s infinite alternate slidein;
 }
 
 @keyframes slidein {

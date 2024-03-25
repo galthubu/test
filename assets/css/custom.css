@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
 
 :root {
-    --couleur-primaire : #5432a8;
+    --couleur-primaire : #2f3540;
 }
 
 .container {
@@ -15,6 +15,7 @@ footer {
 
 h1 {
     font-family: 'DotGothic16', sans-serif;
+    color: #ffffff;
 }
 
 .photo {

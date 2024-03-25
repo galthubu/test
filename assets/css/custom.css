@@ -115,6 +115,7 @@ img {
     opacity: 0;
 }
 .slide-img {
+    margin: auto;
     height: 300px;
     position: absolute;
     top: 0;

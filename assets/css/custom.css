@@ -77,7 +77,7 @@ html, body {
     color: #ffffff;
 }
 
-p + a {
+a {
     color: #ffffff !important;
 }
 

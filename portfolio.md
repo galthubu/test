@@ -3,7 +3,7 @@ title: "Portfolio"
 order: 5
 in_menu: true
 ---
-### Titre? {.bouncingTxt}
+### Caroussel CSS
 
 <div class="slider-container">
     <div class="menu">

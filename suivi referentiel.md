@@ -80,7 +80,7 @@ in_menu: true
 | | Interpréter les erreurs de démarrage d'un ordinateur fixe ou mobile. | ok |
 | | Ajouter, enlever ou remplacer les composants d’un ordinateur fixe ou mobile et en adapter la configuration. | ok |
 | | Compléter une fiche d'intervention ou un compte rendu. | ok |
-| | Assurer une veille technologique sur les composants matériels numériques (évolutions techniques et logicielles).  |
+| | Assurer une veille technologique sur les composants matériels numériques (évolutions techniques et logicielles).  | ok |
 | | Utiliser une notice technique rédigée en anglais. | ok |
 | | Appliquer les règles relatives aux risques électriques (habilitation BS) et électrostatiques. | ok |
 | | Connaissance de l'architecture physique du micro-ordinateur : alimentation, carte mère, processeur, mémoires, protections, SETUP, cartes d'extension. | ok |
@@ -90,7 +90,7 @@ in_menu: true
 | | Sécuriser physiquement les équipements informatiques. | ok |
 | | Protéger les postes de travail des risques informatiques. | ok |
 | | Mettre en œuvre la sauvegarde des données, des systèmes et leurs restaurations. |
-| | Assurer une veille technologique sur les différentes solutions de sauvegardes (logiciels, matériel, cloud..). |
+| | Assurer une veille technologique sur les différentes solutions de sauvegardes (logiciels, matériel, cloud..). | ok |
 | | Sensibiliser les utilisateurs aux règles d’hygiène informatique recommandée par l’ANSSI. | ±ok |
 | | Sensibiliser le cas échéant l’utilisateur au respect de la confidentialité des données personnelles. | ok |
 | | Connaissance des différents types de virus informatiques et d’intrusions. | ok |
@@ -106,7 +106,7 @@ in_menu: true
 | | Configurer le service DHCP. | ok |
 | | Partager des fichiers sur un serveur de fichier d’un réseau local. | ok |
 | | Configurer une imprimante réseau. | 
-| | Assurer une veille technologique sur les réseaux (évolutions techniques et logicielles). |
+| | Assurer une veille technologique sur les réseaux (évolutions techniques et logicielles). | ok |
 | | Lire un schéma d'architecture réseau. | 
 | | Maintenir la documentation technique du réseau. | 
 | | Connaissance des architectures physiques et logiques des réseaux. | ok |
@@ -121,7 +121,7 @@ in_menu: true
 | | Configurer la connexion VPN utilisateur. | 
 | | Installer, configurer et sécuriser un réseau sans fil (nom de réseau, mot de passe et sécurité WI-FI, filtrage MAC).  | ok |
 | | Connecter un périphérique au réseau sans fil. | ok |
-| | Assurer une veille technologique sur les réseaux (évolutions techniques et logicielles). | 
+| | Assurer une veille technologique sur les réseaux (évolutions techniques et logicielles). | ok |
 | | Effectuer la recette de l’intervention. | ±ok |
 | | Connaissance de l’architecture d’un réseau sécurisé (pare-feu, DMZ, ...). | ok |
 | | Connaissance du principe des VPN. | ±ok |
